@@ -22,6 +22,7 @@
     - `haxelib install flixel-addons`
     - `haxelib install flixel-ui`
     - `haxelib git hscript https://github.com/skuqre/hscript`
+    - `haxelib git hxCodec https://github.com/polybiusproxy/hxCodec 4351cf5b672da3e9379c88cbb07a386a681cbadc`
     - `haxelib install actuate`
     - `haxelib install yaml`
     - `haxelib git discord_rpc https://github.com/Aidan63/linc_discord-rpc`

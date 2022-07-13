@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/skuqre/Hope-Engine/blob/master/art/Awesome  new funkin logo.png?raw=true" style="max-width: 85%;" />
+<img src="https://haxeflixel.is-terrible.com/5BJV0tHlP.png" style="max-width: 85%;" />
 </p>
 
 <h1 align="center">Hope Engine</h1>

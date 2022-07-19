@@ -17,6 +17,10 @@
 - [Follow these directions to install HaxeFlixel.](https://haxeflixel.com/documentation/install-haxeflixel/)
 - Install [git-scm](https://git-scm.com/downloads).
     - For **Linux** --  install the git package: sudo apt install git (ubuntu), sudo pacman -S git (arch), etc… (you probably already have it) (from Kade Engine building).
+- For **Linux** -- `hxCodec` needs some dependencies to start.
+    - `sudo apt-get install libvlc-dev`
+    - `sudo apt-get install libvlccore-dev`
+    - `sudo apt-get install vlc-bin`
 - Install these needed libraries:
     - `haxelib install flixel`
     - `haxelib install flixel-addons`

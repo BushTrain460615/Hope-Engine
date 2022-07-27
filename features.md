@@ -17,11 +17,13 @@
 - Middlescroll
 - Modifiers than can mess with your gameplay
   - **Wind Up**: The song gets faster over time!
+  - **Fast Forward**: Play the song on a faster speed.
   - **Speed**: this... just changes your scroll speed.
   - **P2's Side**: Play as the opponent!
   - **Stairs**: It all goes down, and down, and down...
   - **No Miss**: You can't miss.
-  - **Perfect!**: You can't hit anything but a "Sick!!"
+  - **Perfect!**: You can't hit anything but a "Sick!!" or a "Sick!"
+  - **Pure Perfect!**: You can't hit anything but a "Sick!!" (with 2 exclamation marks!)
   - **Goods Only**: You can't hit anything but a "Good!". Even a "Sick!!" will kill you.
   <br>*And even more to come!*
 - Custom Note Skins

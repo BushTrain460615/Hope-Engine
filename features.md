@@ -57,7 +57,7 @@
 - Custom Menu objects (`KeyDisplay`, etc.)
 
 ## Miscellaneous
-- MP4 Support for Windows ([windows only until `hxCodec` fixes Linux Builds](https://github.com/polybiusproxy/hxCodec/issues/142))
+- MP4 Support for all Desktop platforms (shoutout [hxCodec](https://github.com/polybiusproxy/hxCodec))
 - Console with an HScript interpreter embedded in it
 - FPS counter that's dressed for the occasion
 - **_Important_** The HaxeFlixel splash screen has returned

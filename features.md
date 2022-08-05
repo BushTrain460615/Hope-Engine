@@ -31,7 +31,7 @@
   - **Swag**: Minimalist thing I played with in Animate
   - **Circles**: Ever feelin like playin that one rhythm game the professionals play?
 - In-game cutscenes (that you can modify through the files)
-  - **_WINDOWS-ONLY_** If the cutscenes lag you too much, there's an option called "Video Cutscenes" in the settings.
+  - **_ALL DESKTOP PLATFORMS!_** If the cutscenes lag you too much, there's an option called "Video Cutscenes" in the settings.
 - Lane underlay 
 - Hitsound types + Hitsounds at all (i've yet to add more types)
   <br>*Contains three types:*  

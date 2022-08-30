@@ -7,8 +7,11 @@ Big thanks to everyone here for being so smart and awesome.
 - Learned things from [Psych Engine](https://github.com/ShadowMario/FNF-PsychEngine) by [ShadowMario](https://github.com/ShadowMario) with their [contributors](https://github.com/ShadowMario/FNF-PsychEngine/graphs/contributors).
 
 ## Sound Effects
-- Flash Note sound effect: <https://freesound.org/people/montclairguy/sounds/353044/>
-- Death Note sound effect: <https://freesound.org/people/NoonerBear/sounds/581549/>
+#### NOTE TYPE SFX
+- Flash Note: <https://freesound.org/people/montclairguy/sounds/353044/>
+- Death Note: <https://freesound.org/people/NoonerBear/sounds/581549/>
+#### EXTRA DETAILS SFX
+- Pico Shoots SFX from FNF HD: <https://gamebanana.com/mods/166446>
 
 ## Assets used from other mods
 _if you disapprove of me using an asset that belongs to you, tell me and I will remove it!_

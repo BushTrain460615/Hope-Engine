@@ -30,7 +30,7 @@ _if you disapprove of me using an asset that belongs to you, tell me and I will 
 
 ## Week 7
 - [y579's Week 7 In Kade Engine](https://github.com/y579/FNF-Week-7-in-Kade-Engine) - Charts
-- [BushTrain's Week 7 Github](https://github.com/BushsHaxs/fnf-week-7-code) - Instrumentals and Vocals
+- [BushTrain's Week 7 Github](https://github.com/BushTrain460615/fnf-week-7-code) - Instrumentals and Vocals
 
 ## Shaders
 - Chromatic Aberration - By [GWebDev](https://twitter.com/DevVooshGWeb) and from the [Tabi Mod](https://gamebanana.com/mods/286388)
